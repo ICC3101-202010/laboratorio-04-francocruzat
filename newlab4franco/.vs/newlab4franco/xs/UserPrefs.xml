@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{72F069A2-CECB-4E53-9CFC-1037339C9C40}|Default">
+  <MonoDevelop.Ide.ItemProperties.newlab4franco PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="newlab4franco/Program.cs">
+    <Files>
+      <File FileName="newlab4franco/Program.cs" Line="165" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

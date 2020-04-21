@@ -1,0 +1,6 @@
+/Users/francocruzat/Desktop/laboratorio-04-francocruzat/newlab4franco/newlab4franco/bin/Debug/newlab4franco.exe
+/Users/francocruzat/Desktop/laboratorio-04-francocruzat/newlab4franco/newlab4franco/bin/Debug/newlab4franco.pdb
+/Users/francocruzat/Desktop/laboratorio-04-francocruzat/newlab4franco/newlab4franco/obj/x86/Debug/newlab4franco.csprojAssemblyReference.cache
+/Users/francocruzat/Desktop/laboratorio-04-francocruzat/newlab4franco/newlab4franco/obj/x86/Debug/newlab4franco.csproj.CoreCompileInputs.cache
+/Users/francocruzat/Desktop/laboratorio-04-francocruzat/newlab4franco/newlab4franco/obj/x86/Debug/newlab4franco.exe
+/Users/francocruzat/Desktop/laboratorio-04-francocruzat/newlab4franco/newlab4franco/obj/x86/Debug/newlab4franco.pdb
